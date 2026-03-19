@@ -1,0 +1,28 @@
+# Claude Code Einstellungen — NIEMALS committen
+.claude/
+.claude*
+
+# API Keys & Secrets
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+api-keys.*
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.tmp
+*.bak
+*.log

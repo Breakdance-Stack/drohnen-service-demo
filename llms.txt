@@ -1,0 +1,29 @@
+# SkyVision Drone Services
+
+## Was wir tun
+SkyVision Drone Services ist ein professioneller Drohnen-Dienstleister mit Sitz in München. Wir bieten hochwertige Drohnen-Dienstleistungen für Unternehmen, Immobilienmakler, Veranstalter und Privatpersonen.
+
+## Leistungen
+- Luftbilder & Drohnen-Fotografie (bis 48 Megapixel)
+- Inspektion & Thermografie (Gebäude, Solar, Windkraft)
+- Immobilien-Aufnahmen (Foto + Video für Makler)
+- Event-Dokumentation (Festivals, Hochzeiten, Firmenevents)
+- 3D-Mapping & Vermessung (Photogrammetrie, DGM, Orthomosaik)
+- Videoproduktion (4K/8K, FPV-Flüge, Imagefilme)
+
+## Kontakt
+- E-Mail: info@skyvision-drones.de
+- Telefon: 089 / 123 456 789
+- Standort: München, Bayern
+- Einsatzgebiet: Bayern, deutschlandweit, europaweit auf Anfrage
+- Öffnungszeiten: Mo–Fr 8:00–18:00 Uhr
+
+## Preise
+- Starter: ab 299€ pro Einsatz
+- Professional: ab 699€ pro Einsatz
+- Enterprise: auf Anfrage
+
+## Zertifizierungen
+- EU-Fernpilotennachweis A1/A2/A3
+- Thermografie Stufe 1 (EN ISO 9712)
+- Drohnen-Haftpflicht: 5 Mio. € Deckung

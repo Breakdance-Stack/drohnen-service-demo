@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://breakdance-stack.github.io/drohnen-service-demo/sitemap.xml

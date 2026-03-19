@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="de" data-repo="drohnen-service-demo">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kontakt | Drohnen-Angebot anfordern | SkyVision Drone Services</title>
+  <meta name="description" content="Kontaktieren Sie SkyVision Drone Services für ein kostenloses Angebot. Drohnen-Dienstleistungen für Luftbilder, Inspektion, Immobilien und Events in Bayern.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://breakdance-stack.github.io/drohnen-service-demo/kontakt.html">
+  <meta property="og:title" content="Kontakt | SkyVision Drone Services">
+  <meta property="og:description" content="Kontaktieren Sie uns für ein kostenloses Drohnen-Angebot.">
+  <meta property="og:image" content="https://breakdance-stack.github.io/drohnen-service-demo/assets/img/og-image.webp">
+  <meta property="og:url" content="https://breakdance-stack.github.io/drohnen-service-demo/kontakt.html">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="de_DE">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+  <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+  <div data-include="{{ROOT}}partials/header.html"></div>
+  <main id="main">
+
+    <section class="hero-page">
+      <div class="hero-overlay" style="background:linear-gradient(180deg,var(--bg2),var(--bg))"></div>
+      <div class="container hero-content">
+        <div class="breadcrumb"><a href="index.html">Start</a> <span>/</span> Kontakt</div>
+        <h1>Kontakt aufnehmen</h1>
+        <p class="lead">Beschreiben Sie Ihr Projekt und erhalten Sie innerhalb von 24 Stunden ein individuelles Angebot — kostenlos und unverbindlich.</p>
+      </div>
+    </section>
+
+    <section class="section" id="anfrage">
+      <div class="container">
+        <div class="grid-2" style="gap:48px;align-items:start">
+          <div data-reveal>
+            <h2>Angebot anfordern</h2>
+            <p style="color:var(--text2);margin:16px 0 32px">Füllen Sie das Formular aus und wir melden uns schnellstmöglich bei Ihnen. Alternativ erreichen Sie uns auch telefonisch oder per E-Mail.</p>
+            <form class="form-grid" action="#" method="post" onsubmit="return false;">
+              <div class="form-group">
+                <label for="name">Name *</label>
+                <input type="text" id="name" name="name" required placeholder="Ihr vollständiger Name">
+              </div>
+              <div class="form-group">
+                <label for="firma">Firma</label>
+                <input type="text" id="firma" name="firma" placeholder="Firmenname (optional)">
+              </div>
+              <div class="form-group">
+                <label for="email">E-Mail *</label>
+                <input type="email" id="email" name="email" required placeholder="ihre@email.de">
+              </div>
+              <div class="form-group">
+                <label for="telefon">Telefon</label>
+                <input type="tel" id="telefon" name="telefon" placeholder="+49 ...">
+              </div>
+              <div class="form-group full">
+                <label for="leistung">Gewünschte Leistung</label>
+                <select id="leistung" name="leistung">
+                  <option value="">Bitte wählen...</option>
+                  <option value="luftbilder">Luftbilder & Fotografie</option>
+                  <option value="inspektion">Inspektion & Thermografie</option>
+                  <option value="immobilien">Immobilien-Aufnahmen</option>
+                  <option value="events">Event-Dokumentation</option>
+                  <option value="mapping">3D-Mapping & Vermessung</option>
+                  <option value="video">Videoproduktion</option>
+                  <option value="sonstiges">Sonstiges</option>
+                </select>
+              </div>
+              <div class="form-group full">
+                <label for="nachricht">Projektbeschreibung *</label>
+                <textarea id="nachricht" name="nachricht" required placeholder="Beschreiben Sie Ihr Projekt: Was soll aufgenommen werden? Wo? Wann? Besondere Anforderungen?"></textarea>
+              </div>
+              <div class="form-group full">
+                <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center">
+                  <svg viewBox="0 0 24 24"><path d="M2.01 21 23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+                  Anfrage absenden
+                </button>
+              </div>
+            </form>
+          </div>
+          <div data-reveal>
+            <h2>Direkt erreichen</h2>
+            <div style="margin-top:32px;display:flex;flex-direction:column;gap:24px">
+              <div class="card" style="display:flex;gap:16px;align-items:start">
+                <div class="card-icon" style="flex-shrink:0">📧</div>
+                <div>
+                  <h4>E-Mail</h4>
+                  <a href="mailto:info@skyvision-drones.de" style="color:var(--cyan)">info@skyvision-drones.de</a>
+                  <p style="color:var(--text3);font-size:.85rem;margin-top:4px">Antwort innerhalb von 24h</p>
+                </div>
+              </div>
+              <div class="card" style="display:flex;gap:16px;align-items:start">
+                <div class="card-icon" style="flex-shrink:0">📱</div>
+                <div>
+                  <h4>Telefon</h4>
+                  <a href="tel:+4989123456789" style="color:var(--cyan)">089 / 123 456 789</a>
+                  <p style="color:var(--text3);font-size:.85rem;margin-top:4px">Mo–Fr 8:00–18:00 Uhr</p>
+                </div>
+              </div>
+              <div class="card" style="display:flex;gap:16px;align-items:start">
+                <div class="card-icon" style="flex-shrink:0">📍</div>
+                <div>
+                  <h4>Standort</h4>
+                  <p style="color:var(--text2)">SkyVision Drone Services<br>Musterstraße 42<br>80331 München</p>
+                </div>
+              </div>
+              <div class="card" style="display:flex;gap:16px;align-items:start">
+                <div class="card-icon" style="flex-shrink:0">🌍</div>
+                <div>
+                  <h4>Einsatzgebiet</h4>
+                  <p style="color:var(--text2)">Hauptsitz München, Einsätze in ganz Bayern und deutschlandweit. Europaweit auf Anfrage.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+  <div data-include="{{ROOT}}partials/footer.html"></div>
+  <script defer src="assets/js/main.js"></script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    "name": "Kontakt — SkyVision Drone Services",
+    "url": "https://breakdance-stack.github.io/drohnen-service-demo/kontakt.html",
+    "mainEntity": {
+      "@type": "ProfessionalService",
+      "name": "SkyVision Drone Services",
+      "telephone": "+4989123456789",
+      "email": "info@skyvision-drones.de",
+      "address": { "@type": "PostalAddress", "streetAddress": "Musterstraße 42", "addressLocality": "München", "postalCode": "80331", "addressCountry": "DE" }
+    }
+  }
+  </script>
+</body>
+</html>

@@ -1,0 +1,69 @@
+{
+  "business": {
+    "name": "SkyVision Drone Services",
+    "type": "Drohnen-Dienstleister",
+    "founded": 2019,
+    "location": {
+      "city": "München",
+      "state": "Bayern",
+      "country": "Deutschland"
+    },
+    "contact": {
+      "email": "info@skyvision-drones.de",
+      "phone": "+4989123456789",
+      "address": "Musterstraße 42, 80331 München"
+    },
+    "hours": "Mo-Fr 08:00-18:00"
+  },
+  "services": [
+    {
+      "name": "Luftbilder & Fotografie",
+      "description": "Hochauflösende Drohnen-Fotografie in bis zu 48 Megapixel",
+      "startingPrice": "299€"
+    },
+    {
+      "name": "Inspektion & Thermografie",
+      "description": "Gebäude-, Solar- und Industrieanlagen-Inspektion mit Wärmebildkamera",
+      "startingPrice": "auf Anfrage"
+    },
+    {
+      "name": "Immobilien-Aufnahmen",
+      "description": "Verkaufsfördernde Drohnen-Fotos und Videos für Immobilienmakler",
+      "startingPrice": "299€"
+    },
+    {
+      "name": "Event-Dokumentation",
+      "description": "Cineastische Drohnen-Aufnahmen für Veranstaltungen aller Art",
+      "startingPrice": "499€"
+    },
+    {
+      "name": "3D-Mapping & Vermessung",
+      "description": "Photogrammetrie, Orthomosaike und digitale Geländemodelle",
+      "startingPrice": "auf Anfrage"
+    },
+    {
+      "name": "Videoproduktion",
+      "description": "4K/8K Drohnen-Videos, FPV-Flüge und professionelle Postproduktion",
+      "startingPrice": "499€"
+    }
+  ],
+  "coverage": {
+    "primary": "München und Umgebung",
+    "secondary": "Bayern",
+    "extended": "Deutschlandweit, europaweit auf Anfrage"
+  },
+  "certifications": [
+    "EU-Fernpilotennachweis A1/A2",
+    "Kompetenznachweis A3",
+    "Thermografie Stufe 1 (EN ISO 9712)",
+    "Drohnen-Haftpflicht 5 Mio. €"
+  ],
+  "usps": [
+    "Über 500 abgeschlossene Projekte",
+    "12.000+ Flugstunden Erfahrung",
+    "48h Express-Lieferung",
+    "Modernste DJI-Drohnen inkl. Inspire 3",
+    "Professionelle Nachbearbeitung inklusive",
+    "Komplette Nutzungsrechte in allen Paketen"
+  ]
+}
